@@ -1,0 +1,16 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.db
+*.db-shm
+*.db-wal
+
+# Tools & executables
+cloudflared.exe
+*.exe
+
+# Node modules
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
